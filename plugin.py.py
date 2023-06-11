@@ -15,7 +15,7 @@ TWILIO_AUTH_TOKEN = ''
 TWILIO_PHONE_NUMBER = ''
 
 def create_jira_issue(summary, description):
-    url = 'https://tyagimanik2003.atlassian.net/rest/api/2/issue'
+    url = ''
     headers = {
         "Accept": "application/json",
         'Content-Type': 'application/json'
