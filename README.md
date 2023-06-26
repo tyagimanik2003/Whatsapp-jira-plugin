@@ -1,4 +1,4 @@
-# Project Name
+# Whatsapp-Jira integration
 
 ## Description
 
@@ -72,7 +72,3 @@ Once the application is running, you can interact with it using the following en
 ## Contributions
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request on the GitHub repository.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
